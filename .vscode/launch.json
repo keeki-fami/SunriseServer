@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"type": "wendy",
+			"name": "Debug Python App with Wendy",
+			"request": "attach",
+			"target": "/Users/towasakurada/Desktop/CurtainProject/CurtainServer",
+			"cwd": "/Users/towasakurada/Desktop/CurtainProject/CurtainServer",
+			"preLaunchTask": "wendy: Run Python App"
+		}
+	]
+}
